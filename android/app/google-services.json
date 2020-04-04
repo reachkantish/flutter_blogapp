@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "92832384095",
+    "firebase_url": "https://blogapp-fc0e8.firebaseio.com",
+    "project_id": "blogapp-fc0e8",
+    "storage_bucket": "blogapp-fc0e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92832384095:android:a553534a2f91ca466507ea",
+        "android_client_info": {
+          "package_name": "kantishpolepally.com.flutterblogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92832384095-uil89k4e467e5boorl4ctaf4s5s24l82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjZYAD75CC5CHB0NLgaafuyUyXGVWP7f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92832384095-uil89k4e467e5boorl4ctaf4s5s24l82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
